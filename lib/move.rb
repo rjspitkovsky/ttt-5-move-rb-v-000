@@ -9,7 +9,3 @@ end
 def input_to_index("5")
     5.to_i
 end
-
-def move(board, num, char = "X")
-
-end
